@@ -7,6 +7,9 @@
   - **[Credit Enhancements](#Credit-Enhancements)**
   - **[Covenants](#Covenants)**
 - **[Tax Considerations](#Tax-Considerations)**
+- **[Structure of a Bond’s cash flows](#Structure-of-a-Bonds-cash-flows)**
+
+
 ## Bond Indenture
 - The **trust deed** is the legal contract that describes the form of the bond, the obligations of the issuer, and the rights of the bondholders.
 - Market participants frequently call this legal contract the **bond indenture**, particularly in the United States and Canada
@@ -47,6 +50,14 @@
 - A **covered bond** is a debt obligation backed by a segregated pool of assets called a “cover pool”. 
 
 ##  Legal and Regulatory Considerations
+
+## Structure of a Bond’s cash flows
+- **Plain vanilla bond**: make periodic, fixed coupon payments and a lump-sum payment of principal at maturity
+  - Such a bond is also known as a bullet bond because the entire payment of principal occurs at maturity
+- **Amortizing bond**: has a payment schedule that calls for periodic payments of interest and repayments of principal
+  - A bond that is fully amortized is characterized by a fixed periodic payment schedule that reduces the bond’s outstanding principal amount to zero by the maturity date
+- **Partially amortized bond**: also makes fixed periodic payments until maturity, but only a portion of the principal is repaid by the maturity date. 
+  - Thus, a balloon payment is required at maturity to retire the bond’s outstanding principal amount
 
 
 

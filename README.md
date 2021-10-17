@@ -44,7 +44,7 @@
     - The legal title to the aircraft is held by the trustee, which issues equipment trust certificates to investors in the amount of the aircraft purchase price
     - The trustee leases the aircraft to the airline and collects lease payments from the airline to pay the interest on the certificates
     - When the certificates mature, the trustee sells the aircraft to the airline, uses the proceeds to retire the principal, and cancels the lease
-
+- A **covered bond** is a debt obligation backed by a segregated pool of assets called a “cover pool”. 
 
 
 ## Types of Fixed Income

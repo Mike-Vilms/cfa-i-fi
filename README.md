@@ -36,6 +36,15 @@
   - Thus, investors in ABS must pay special attention to the quality of the assets backing the ABS.
 
 ### ```Asset or Collateral Backing```
+- **Collateral trust bonds** are secured by securities such as common shares, other bonds, or other financial assets. 
+  - These securities are pledged by the issuer and typically held by the trustee.
+- **Equipment trust certificates** are bonds secured by specific types of equipment or physical assets, such as aircraft, railroad cars, shipping containers, or oil rigs
+  - *Example*:
+    - Airline finances the purchase of new aircraft with equipment trust certificates  
+    - The legal title to the aircraft is held by the trustee, which issues equipment trust certificates to investors in the amount of the aircraft purchase price
+    - The trustee leases the aircraft to the airline and collects lease payments from the airline to pay the interest on the certificates
+    - When the certificates mature, the trustee sells the aircraft to the airline, uses the proceeds to retire the principal, and cancels the lease
+
 
 
 ## Types of Fixed Income

@@ -26,3 +26,10 @@
     - The underwriting process then enters the issuing phase
     - The underwriter purchases the entire bond issue from the issuer, delivers the proceeds, and starts reselling the bonds through its sales network
   6. The underwriting process comes to an end about 14 days later, on the **closing day**, when the bonds are delivered to investors
+
+### Auctions
+- The US sovereign bond market is one of the largest and most liquid bond markets globally, so we will illustrate the US single-price auction process
+- This process includes three phases: 
+  - announcement, 
+  - bidding, and 
+  - issuance.

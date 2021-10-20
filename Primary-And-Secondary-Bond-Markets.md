@@ -27,9 +27,14 @@
     - The underwriter purchases the entire bond issue from the issuer, delivers the proceeds, and starts reselling the bonds through its sales network
   6. The underwriting process comes to an end about 14 days later, on the **closing day**, when the bonds are delivered to investors
 
-### Auctions
+### Auctions ???
 - The US sovereign bond market is one of the largest and most liquid bond markets globally, so we will illustrate the US single-price auction process
 - This process includes three phases: 
   - announcement, 
   - bidding, and 
   - issuance.
+
+### Private Placements
+- A private placement is typically a non-underwritten, unregistered offering of bonds that are sold only to an investor or a small group of investors
+- Typical investors in privately placed bonds are large institutional investors
+- A private placement can be accomplished directly between the issuer and the investor(s) or through an investment bank

@@ -8,7 +8,7 @@
   - **[Covenants](#Covenants)**
 - **[Tax Considerations](#Tax-Considerations)**
 - **[Structure of a Bond’s cash flows](#Structure-of-a-Bonds-cash-flows)**
-
+- **[Bond Prices and the Time Value of Money](#123)**
 
 ## Bond Indenture
 - The **trust deed** is the legal contract that describes the form of the bond, the obligations of the issuer, and the rights of the bondholders.

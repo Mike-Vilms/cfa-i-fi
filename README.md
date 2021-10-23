@@ -2,6 +2,8 @@
 
 - **[Yield-to-Maturity](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Yield-to-Maturity.md)**
 - **[Bond Price and Market Discount Rate](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Bond-Price-and-Market-Discount-Rate.md)**
+- **[Bond Price and Market Discount Rate](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Bond-Price-and-Market-Discount-Rate.md)**
+---
 - **[Bond Indenture](#Bond-Indenture)**
   - **[Legal Identity of the Bond Issuer and its Legal Form](#Legal-Identity-of-the-Bond-Issuer-and-its-Legal-Form)**
   - **[Source of Repayment Proceeds](#Source-of-Repayment-Proceeds)**

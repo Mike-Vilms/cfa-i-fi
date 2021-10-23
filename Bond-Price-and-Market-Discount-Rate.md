@@ -8,6 +8,12 @@
   - The coupon effect
   - The maturity effect
 
+---
+
+---
+![image](https://user-images.githubusercontent.com/85560091/138534572-abd45971-b186-4f6c-8d51-11b8ec4a25e7.png)
+---
+
 ### The inverse effect
 - The bond price is inversely related to the market discount rate. When the market discount rate increases, the bond price decreases (the inverse effect)
 
@@ -21,5 +27,5 @@
 
 
 ### The maturity effect
-- Generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect)
+- Generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect)
 

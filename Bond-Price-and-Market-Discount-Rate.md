@@ -25,7 +25,7 @@
 
 ### The coupon effect
 - For the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect)
-
+- Lower-coupon bonds have more price volatility than higher-coupon bonds, other things being equal
 
 
 ### The maturity effect

@@ -9,9 +9,17 @@
   - The maturity effect
 
 ### The inverse effect
+- The bond price is inversely related to the market discount rate. When the market discount rate increases, the bond price decreases (the inverse effect)
+
 
 ### The convexity effect
+- For the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)
+
 
 ### The coupon effect
+- For the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect)
+
 
 ### The maturity effect
+- Generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect)
+

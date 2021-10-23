@@ -30,4 +30,4 @@
 
 ### The maturity effect
 - Generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect)
-
+-  In general, longer-term bonds have more price volatility than shorter-term bonds, other things being equal.

@@ -4,5 +4,5 @@
 - These market discount rates are called **spot rates**
 - Suppose that the one-year spot rate is 2%, the two-year spot rate is 3%, and the three-year spot rate is 4%, then, the price of a three-year bond that makes a 5% annual coupon payment is:
 ![image](https://user-images.githubusercontent.com/85560091/138578827-a5248755-77bb-4865-860a-476249268dd2.png)
-
-- 
+---
+![image](https://user-images.githubusercontent.com/85560091/138578902-0fa87b6d-353a-48c5-9a10-8c76eaac7d42.png)

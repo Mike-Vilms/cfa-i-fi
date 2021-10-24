@@ -3,7 +3,7 @@
 - **[Yield-to-Maturity](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Yield-to-Maturity.md)**
 - **[Bond Price and Market Discount Rate](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Bond-Price-and-Market-Discount-Rate.md)**
 - **[Constant-yield Price Trajectory](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Constant-yield-Price-Trajectory.md)**
-- **[Pricing-Bonds-with-Spot-Rates](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Constant-yield-Price-Trajectory.md)**
+- **[Pricing Bonds with Spot Rates](https://github.com/Mike-Vilms/cfa-i-fi/blob/main/Pricing-Bonds-with-Spot-Rates.md)**
 ---
 - **[Bond Indenture](#Bond-Indenture)**
   - **[Legal Identity of the Bond Issuer and its Legal Form](#Legal-Identity-of-the-Bond-Issuer-and-its-Legal-Form)**
@@ -63,12 +63,3 @@
   - A bond that is fully amortized is characterized by a fixed periodic payment schedule that reduces the bond’s outstanding principal amount to zero by the maturity date
 - **Partially amortized bond**: also makes fixed periodic payments until maturity, but only a portion of the principal is repaid by the maturity date. 
   - Thus, a balloon payment is required at maturity to retire the bond’s outstanding principal amount
-
-
-
-## Types of Fixed Income
-### Government Bond
-
-## Basic Definitions and Concepts
-- Duration
-- Convexity
